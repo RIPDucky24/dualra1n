@@ -1,8 +1,8 @@
 # dualra1n
 
-A script that lets you dualboot iOS 15-14. and 13.6/13.7, (semi-tethered) using [checkm8](https://www.theiphonewiki.com/wiki/Checkm8_Exploit)-vulnerable devices. This is not a downgrade, however you can use [downr1n](https://github.com/edwin170/downr1n) instead.
+A script that lets you dualboot iOS 15-14. and 13.6/13.7, (semi-tethered) using [checkm8](https://www.theiphonewiki.com/wiki/Checkm8_Exploit)-vulnerable devices. This is not a downgrade, however you can use [downr1n](https://github.com/edwin170/downr1n) or the --downgrade option instead.
 
-This will **not work** on devices with iOS 16.
+This will **not work** on devices with iOS 16+.
 
 # How can you dualboot?
 
@@ -11,7 +11,7 @@ This will **not work** on devices with iOS 16.
 - [Video tutorial from burhanrana](https://www.youtube.com/watch?v=4iCZv7Ox5AA)
 
 # Prerequisites
-- An A9-A11 device (A10 & A11 will need a deactivated passcode)
+- An A9-A11 device (A10 & A11 will need a deactivated passcode)(iPad Mini 4 and iPad Air 2 are supported)
 - An .iPSW file for iOS 13 - 15.
 - Approximately 15GB of free storage
 - A computer with macOS or any Linux distro installed (Windows Subsystem for Linux is not supported). Live CDs will work.
@@ -51,7 +51,7 @@ This will **not work** on devices with iOS 16.
 - [Fatih](https://github.com/swayea) for helping with the readme, testing linux support and being a very good person.
 - [plooshi](https://github.com/plooshi) thank you so much for help to fix the home button issue.
 - [azaz0322](https://github.com/m00nl1ghts) thank you so much for the repo in the dualra1n.loader.
-- [Huy Nguyen](https://github.com/34306), [DarwinUang](https://github.com/DarwinUang), [KlutzyT](https://github.com/klutzyT), and [aditya11110](https://github.com/aditya11110) for helping with the readme
+- [Huy Nguyen](https://github.com/34306), [DarwinUang](https://github.com/DarwinUang), [RIPDucky24!](https://github.com/RIPDucky24), and [aditya11110](https://github.com/aditya11110) for helping with the readme
 </details>
 <details><summary>Credits for tools used in dualra1n</summary>
 
