@@ -1,3 +1,13 @@
+# Supported Devices
+| Device |
+|--------|
+|iPhone 6S(+)|
+|iPhone SE   |
+
+
+
+
+
 # How do I dualboot?
 
 1. Clone the repository with the following command: <code>git clone --recursive https://github.com/dualra1n/dualra1n</code>.
